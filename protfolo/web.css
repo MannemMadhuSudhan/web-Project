@@ -72,6 +72,7 @@ nav ul li a:hover::after{
 }
 #header-text h1 span{
     color: #d815349a;
+    font-family: nv-boli;
 }
 span{
     color: #ff0000;
